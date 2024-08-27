@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @itsmeannrie
 - 👀 I’m interested in business and programming 
 - 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on programming 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a fangirl
 
